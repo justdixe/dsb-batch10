@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at dnstr03gmail.com
 
 ## Image
-![Deadpool]([http://url/a.png](https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/07/deadpool-2016-poster.jpg))
+![Deadpool]([[http://url/a.png](https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/07/deadpool-2016-poster.jpg)](https://lumiere-a.akamaihd.net/v1/images/hod6480_comp_inh_v0003_fb8ebaa0.jpeg))
