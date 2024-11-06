@@ -10,7 +10,7 @@ My data science and analytics projects
 5. Linear Regregression Model using caret
 
 ## Contact me
-reach out to me at dnstr03gmail.com
+reach out to me at dnstr03@gmail.com
 
 ## Image
 ![Deadpool](https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/07/deadpool-2016-poster.jpg)
